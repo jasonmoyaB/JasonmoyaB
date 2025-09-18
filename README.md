@@ -34,13 +34,17 @@ Hi, I'm Jason Moya Brenes!
 <hr>
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:jason.moyabre.es@gmail.com">
+	<!-- abre tu cliente de correo predeterminado -->
+	<a href="mailto:jason.moyabre.es@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
-	<a href="https://www.linkedin.com/in/jason-moya-brns/">
+	<!-- LinkedIn correcto -->
+	<a href="https://www.linkedin.com/in/jason-moya-brns/" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://github.com/jasonmoyaB">
+	<!-- GitHub correcto -->
+	<a href="https://github.com/jasonmoyaB" target="_blank">
 		<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
 </p>
+
