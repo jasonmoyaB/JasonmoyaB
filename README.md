@@ -18,18 +18,15 @@ Hi, I'm Jason Moya Brenes!
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Web+Developer;Database+Enthusiast;Always+learning+new+things&center=true&width=480&height=45">
 </p>
 
----
-
 ### 📌 About Me
 💻 Systems Engineering student at Universidad Fidélitas (Costa Rica)  
 📚 Expected graduation: February 2025  
-📝 Strong interest in Web Development and Databases (MySQL, SQL Server)  
+📝 Strong interest in Web Development, Databases (MySQL, SQL Server) and Business Intelligence (BI)  
 🔭 Currently working on ASP.NET MVC, Power BI Dashboards, Oracle PL/SQL  
-🌱 Learning AWS Cloud, WordPress, and advanced SQL techniques  
-🌟 Main languages & tools: C#, SQL, Python (basics), JavaScript  
-🚩 Interested in junior roles or internships in Web Development / Data  
+🌱 Learning AWS Cloud and advanced SQL techniques  
+🌟 Main languages & tools: C#, SQL, Python (basics)  
+🚩 Interested in junior roles or internships in Web Development / Data / Business Intelligence  
 
----
 
 ## 🤝 Connect with me
 <p align="center">
