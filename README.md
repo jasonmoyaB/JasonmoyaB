@@ -22,8 +22,8 @@ Hi, I'm Jason Moya Brenes!
 
 🤖 AI Developer at **Agrotrace** — building an AI-driven platform for farm operations, using Claude Code, custom LLM Skills/plugins, and prompt & harness engineering
 💼 Software Developer at **CapitalRx** (Remote, USA) — full-stack development in a U.S. health-tech environment
-💻 Software Engineering student at Universidad Fidélitas (Costa Rica)
-📚 Expected graduation: 2026
+💻 Software Engineering graduated at Universidad Fidélitas (Costa Rica)
+📚 Graduaded: 2026
 ☁️ AWS Certified AI Practitioner & AWS Certified Cloud Practitioner
 🌱 Currently deepening my work with LLM agent workflows and production-grade prompt engineering
 🚩 Open to roles in AI-Assisted Development, Full-Stack Development, and Business Intelligence
